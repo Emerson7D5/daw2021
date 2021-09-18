@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\unicaes\\daw\\apiPrestamos\\prestasmosApi\\prestasmosApi.csproj": {}
+    "C:\\unicaes\\daw\\daw2021\\apiPrestamos\\prestasmosApi\\prestasmosApi.csproj": {}
   },
   "projects": {
-    "c:\\unicaes\\daw\\apiPrestamos\\prestasmosApi\\prestasmosApi.csproj": {
+    "C:\\unicaes\\daw\\daw2021\\apiPrestamos\\prestasmosApi\\prestasmosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\unicaes\\daw\\apiPrestamos\\prestasmosApi\\prestasmosApi.csproj",
+        "projectUniqueName": "C:\\unicaes\\daw\\daw2021\\apiPrestamos\\prestasmosApi\\prestasmosApi.csproj",
         "projectName": "prestasmosApi",
-        "projectPath": "c:\\unicaes\\daw\\apiPrestamos\\prestasmosApi\\prestasmosApi.csproj",
+        "projectPath": "C:\\unicaes\\daw\\daw2021\\apiPrestamos\\prestasmosApi\\prestasmosApi.csproj",
         "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
-        "outputPath": "c:\\unicaes\\daw\\apiPrestamos\\prestasmosApi\\obj\\",
+        "outputPath": "C:\\unicaes\\daw\\daw2021\\apiPrestamos\\prestasmosApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emers\\AppData\\Roaming\\NuGet\\NuGet.Config",
